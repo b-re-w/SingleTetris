@@ -1,3 +1,6 @@
+# IntelliJ Setting
+.idea/
+
 # Prerequisites
 *.d
 
@@ -52,5 +55,5 @@ Mkfile.old
 dkms.conf
 
 # Clion Cmake Build
-cmake-build-debug
-cmake-build-release
+cmake-build-debug/
+cmake-build-release/
