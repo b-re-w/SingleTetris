@@ -1,1 +1,0 @@
-"C:\Users\IRACK\AppData\Local\Programs\CLion 2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/IRACK/AppData/Local/Programs/CLion 2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\IRACK\Desktop\다이브\2학년 세미나\C\single_tetris" -B "C:\Users\IRACK\Desktop\다이브\2학년 세미나\C\single_tetris\cmake-build-debug"
